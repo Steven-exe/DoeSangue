@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Steven-exe/DoeSangue/issues"
   },
-  "homepage": "https://github.com/Steven-exe/DoeSangue#readme"
+  "homepage": "https://github.com/Steven-exe/DoeSangue#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
