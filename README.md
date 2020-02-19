@@ -1,6 +1,8 @@
-# Maratona DEV RocketSeat (Aula 1)
+# Maratona DEV RocketSeat 
 
-MaratonaDev rocketseat Projeto "Doa Sangue"
+<h1 align="center"> 🏃 MaratonaDev rocketseat Projeto <strong>"Doe Sangue"</strong> 🏃 </h1>
+
+<img src="./coisas/wallpp.svg" align="center"></img>
 
 Projeto da MaratonaDev dia 1 Inicializando na programação web.
 
