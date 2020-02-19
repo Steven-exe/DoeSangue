@@ -13,4 +13,6 @@ Termino da aplicação web.
 Desenvolvida toda a backend da aplicação, 
 inserção de banco de dados.
 
+<img src="./coisas/ProjDoe.png"></img>
+
 by Steven.exe
