@@ -1,6 +1,6 @@
 # Maratona DEV RocketSeat 
 
-<h1 align="center"> 🏃 MaratonaDev rocketseat Projeto <strong>"Doe Sangue"</strong> 🏃 </h1>
+<h1> 🏃 MaratonaDev rocketseat Projeto <strong>"Doe Sangue"</strong> 🏃 </h1>
 
 <img src="./coisas/wallpp.svg" align="center"></img>
 
